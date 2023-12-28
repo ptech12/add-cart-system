@@ -48,7 +48,8 @@ p{
     background-color: #fbf54a;
     font-family: Roboto, sans-serif;
     width: 150px;
-    height: 25px;
+    height: 30px;
+    border-radius: 75px;
 }
 .add:hover{
     background-color: #FFA33C;
